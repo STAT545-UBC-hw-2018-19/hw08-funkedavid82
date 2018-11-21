@@ -30,10 +30,34 @@ The code and data are from [Dean Attali's tutorial](https://deanattali.com/blog/
 </tr>
 <tr class="even">
 <td><a href="https://github.com/STAT545-UBC-students/hw08-funkedavid82/tree/master/bcl">Shiny app folder</a></td>
-<td>The built shiny app</td>
+<td>The built shiny app files and R code on github</td>
+</tr>
+<tr class="odd">
+<td><a href="https://funkedavid82.shinyapps.io/bcld">My shiny app</a></td>
+<td>My shiny app on shiny app website</td>
 </tr>
 </tbody>
 </table>
+
+## Added features:
+
+1. Add an option to sort the results table by price.
+
+2. Add an image of the BC Liquor Store to the UI
+
+3. Use the `DT` package to turn the current results table into an interactive table. 
+
+4. Place the plot and the table in separate tabs.
+
+5. Show the number of results found whenever the filters change.
+
+6. Allow the user to download the results table as a ..csv file. 
+
+7. Allow the user to search for multiple alcohol types simultaneously, instead of being able to choose only          wines/beers/etc. 
+
+
+
+
 
 ## References:
 
